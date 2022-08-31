@@ -1,10 +1,12 @@
 {
   "name": "1-ufabet-login-register",
   "theme": "syntax",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "เข้าร่วม เว็บพนันออนไลน์  slot  ดีจริงไหม",
   "keywords": [
-    "เครดิตฟรี 100","เครดิตฟรี ไม่มี เงื่อนไข","m98 เครดิตฟรี68บาท"
+    "เครดิตฟรี 100",
+    "เครดิตฟรี ไม่มี เงื่อนไข",
+    "m98 เครดิตฟรี68บาท"
   ],
   "repository": "https://github.com/ufabetfree/muza",
   "license": "MIT",
